@@ -15,3 +15,4 @@ Repositório direcionado para a disciplina de Projeto e Administração de Banco
 ## Tarefas
 
 * [Tarefa - ODBC e ORM](./database/20252/tarefas/PVeeeeeee/tarefa-orm.md)
+* [Tarefa - Sistema de Gestão de Atividades (MongoDB)](./database/20252/tarefas/PVeeeeeee/t4_mongo_python\tarefa-mongoDB.md)
